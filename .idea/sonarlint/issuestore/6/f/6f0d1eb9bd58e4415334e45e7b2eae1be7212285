@@ -1,0 +1,26 @@
+
+V
+squid:S106~"9Replace this use of System.out or System.err by a logger.(¸ØØÁ8íçç˜¼-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª‡“°úÿÿÿÿ8£»ê™¼-
+Œsquid:S1319A"oThe type of the "prop" object should be an interface such as "List" rather than the implementation "ArrayList".(ç”–M8Ù÷æ»-
+U
+squid:S106s"9Replace this use of System.out or System.err by a logger.(£ó†98şÍ½—¼-
+W
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(æâ »8¥ïö˜¼-
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(‚ã·œşÿÿÿÿ8½ù»-
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(İ›ÔÛüÿÿÿÿ8ÆŸ”—¼-
+W
+squid:S106†"9Replace this use of System.out or System.err by a logger.(á­â«8³ô®™¼-
+\
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(õşàòûÿÿÿÿ8¬µ™¼-
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(ˆå²8»ßª—¼-
+\
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(œÃĞƒøÿÿÿÿ8¿¨°™¼-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ƒß•š¼-
+[
+squid:S106v"9Replace this use of System.out or System.err by a logger.(ªîè«ùÿÿÿÿ8õŒœ—¼-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Šüå¶¾-

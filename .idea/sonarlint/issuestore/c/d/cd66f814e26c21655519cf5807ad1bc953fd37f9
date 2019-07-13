@@ -1,0 +1,67 @@
+
+\
+squid:S106†"9Replace this use of System.out or System.err by a logger.(ôöŒºùÿÿÿÿ8À§Ù»¾-
+W
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ÛçŒØ8À§Ù»¾-
+`squid:S1659"=Declare "valoareDiscountPersoanaJuridica" on a separate line.(°êŞ­ùÿÿÿÿ8ÂÄš»¾-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôêìÃ8À§Ù»¾-
+xsquid:S00116"TRename this field "CUIClient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä´¼Şşÿÿÿÿ8ÃšÖº¾-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èóüæ8À§Ù»¾-
+Hsquid:S1659"%Declare "JClient" on a separate line.(ä´¼Şşÿÿÿÿ8Ëº¾-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛçŒØ8À§Ù»¾-
+Jsquid:S1659"'Declare "CUIClient" on a separate line.(ä´¼Şşÿÿÿÿ8ÃšÖº¾-
+Ksquid:S1659"-Declare "anNastereClient" on a separate line.(ºü×°8ÃŞÑœ»-
+W
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÆÀûı8À§Ù»¾-
+\
+squid:S106©"9Replace this use of System.out or System.err by a logger.(ÉîêÏùÿÿÿÿ8À§Ù»¾-
+V
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ñ£“Ô8À§Ù»¾-
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ò›‚ûÿÿÿÿ8À§Ù»¾-
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ŸÈ•Æûÿÿÿÿ8À§Ù»¾-
+W
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ÛçŒØ8À§Ù»¾-
+Xsquid:S1659":Declare "adresaFacturareClientDefault" on a separate line.(ßÂĞï8õà×¸¾-
+’squid:S1319W"oThe type of the "produse" object should be an interface such as "Map" rather than the implementation "HashMap".(ŸÅÓÚøÿÿÿÿ8À§Ù»¾-
+‹squid:S1319a"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(›àÂ³8À§Ù»¾-
+Msquid:S1659"/Declare "lunaNastereClient" on a separate line.(ºü×°8ÃŞÑœ»-
+ssquid:S1192"TDefine a constant instead of duplicating this literal "Optiune inexistenta" 3 times.(ÛçŒØ8À§Ù»¾-
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(Èóüæ8À§Ù»¾-
+\
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(öèö‘øÿÿÿÿ8À§Ù»¾-
+\
+squid:S106½"9Replace this use of System.out or System.err by a logger.(Èó´¨şÿÿÿÿ8À§Ù»¾-
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(èÖÈ¡8À§Ù»¾-
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¡æ†ıÿÿÿÿ8À§Ù»¾-
+Rsquid:S2387!"4"cosCumparaturi" is the name of a field in "Produs".(¢ê§Ó8¼ä„¸¾-
+vsquid:S00116"RRename this field "JClient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä´¼Şşÿÿÿÿ8Ëº¾-
+\
+squid:S106À"9Replace this use of System.out or System.err by a logger.(úÌòıÿÿÿÿ8À§Ù»¾-
+[
+squid:S106x"9Replace this use of System.out or System.err by a logger.(¸¯Êùÿÿÿÿ8À§Ù»¾-
+\
+squid:S106’"9Replace this use of System.out or System.err by a logger.(á½¢…şÿÿÿÿ8À§Ù»¾-
+\
+squid:S106²"9Replace this use of System.out or System.err by a logger.(¾áùŒşÿÿÿÿ8À§Ù»¾-
+W
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(«şË8À§Ù»¾-
+Usquid:S1659"7Declare "adresaLivareClientDefault" on a separate line.(ßÂĞï8µÉ×¸¾-
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(¿¥¶çşÿÿÿÿ8À§Ù»¾-
+Isquid:S1659"+Declare "prenumeClient" on a separate line.(Ìşã¦8ãíĞœ»-
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(‘’Ç´8À§Ù»¾-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Æö¯³8üÀõ¸¾-
+W
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ßÌ§š8À§Ù»¾-
+W
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(÷‰õŸ8À§Ù»¾-

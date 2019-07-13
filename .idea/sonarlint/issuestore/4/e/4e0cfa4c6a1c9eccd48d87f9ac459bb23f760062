@@ -1,0 +1,20 @@
+
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(¤ıí›ÿÿÿÿÿ8•™é·¾-
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(¼Ÿ‚Ì8¨¸¾-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(×í¥ô8‘¥¶¾-
+V
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(©ŒşÉ8‘¥¶¾-
+isquid:S1192"FDefine a constant instead of duplicating this literal "11-12" 7 times.(åß°ùÿÿÿÿ8¼ˆ³¶¾-
+hsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(©ù…c8—ˆ½¸¾-
+Psquid:S1135d"2Complete the task associated to this TODO comment.(…ïœ†8›¾½¸¾-
+squid:S1319J"lThe type of the "orar" object should be an interface such as "Map" rather than the implementation "HashMap".(Ïç†ûÿÿÿÿ8‘¥¶¾-
+Šsquid:S1319P"lThe type of the "stoc" object should be an interface such as "Map" rather than the implementation "HashMap".(‚ªî8‘¥¶¾-
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(¸ÜÏ›úÿÿÿÿ8Ö«ÿ·¾-
+Ksquid:S1172_"-Remove this unused method parameter "produs".(˜¯Ü£8òê·¾-
+Psquid:S1135o"2Complete the task associated to this TODO comment.(…ïœ†8—ˆ½¸¾-
+Psquid:S1135
+"2Complete the task associated to this TODO comment.(…ïœ†8Ì‰¿¸¾-

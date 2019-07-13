@@ -1,0 +1,11 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¢’­»-
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(îğÄ¨8œ‹µ»¾-
+Xsquid:S1854%":Remove this useless assignment to local variable "mircea".(ÂÃË¿8ÅØ½»¾-
+Qsquid:S1481"3Remove this unused "cosCumparaturi" local variable.(¢ê§Ó8œ‹µ»¾-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éøù»8ıªù¸¾-
+Isquid:S1481%"+Remove this unused "mircea" local variable.(ÂÃË¿8œ‹µ»¾-
+`squid:S1854"BRemove this useless assignment to local variable "cosCumparaturi".(¢ê§Ó8œ‹µ»¾-
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(íìÖµ8‚İÔ»¾-
+Dsquid:S1481&"&Remove this unused "x" local variable.(Ïõûõ8‚İÔ»¾-
+Ssquid:S1854&"5Remove this useless assignment to local variable "x".(Ïõûõ8‚İÔ»¾-
